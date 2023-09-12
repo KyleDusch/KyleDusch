@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KyleDusch
+- 👀 I’m interested in all tools and frameworks related to Python and C++ 
+- 🌱 I’m currently learning Django and React 
+- 💞️ I’m looking to collaborate on projects related to Python and C++ from game development to mobile apps, to task automation, I'm always willing to learn. 
+- 📫 How to reach me through Github, email at Kylejadusch@gmail.com or LinkedIn, Kyle Dusch 
