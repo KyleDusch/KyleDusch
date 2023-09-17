@@ -7,3 +7,5 @@
 💞️ I’m always eager to collaborate on projects ranging from game development and mobile apps to task automation. Let's work together to create innovative solutions!
 
 📫 Feel free to reach out to me through GitHub or drop me an email at kylejadusch@gmail.com to discuss exciting opportunities or projects.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
