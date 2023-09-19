@@ -8,5 +8,3 @@
 
 📫 Feel free to reach out to me through GitHub or drop me an email at kylejadusch@gmail.com to discuss exciting opportunities or projects.
 
-Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
