@@ -1,4 +1,4 @@
-👋 Hi, I’m @KyleDusch, a passionate developer with a focus on Python and C++.
+👋 Hi, I’m @KyleDusch, a passionate developer with a focus on Python and C++. 
 
 👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, and web development, while exploring the world of high-performance computing with C++.
 
