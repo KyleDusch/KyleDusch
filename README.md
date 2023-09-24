@@ -9,6 +9,7 @@
 📫 Feel free to reach out to me through GitHub or drop me an email at kylejadusch@gmail.com to discuss exciting opportunities or projects.
 
 Skills: 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
