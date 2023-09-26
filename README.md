@@ -2,11 +2,13 @@
 
 👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, and web development, while exploring the world of high-performance computing with C++.
 
-🌱 Currently, I'm deepening my skills in Django, React and Node.js , aiming to build dynamic web applications that merge the best of both worlds. In each repository will have a badge to show what frameworks, IDE's and programming languages were used.
+🌱 Currently, I'm deepening my skills in Django, React and Node.js , aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages.
+
+In each repository, there will have a badge to show what frameworks, IDE's and programming languages were used.
 
 💞️ I’m always eager to collaborate on projects ranging from game development and mobile apps to task automation. Let's work together to create innovative solutions!
 
-📫 Feel free to reach out to me through GitHub or drop me an email at kylejadusch@gmail.com to discuss exciting opportunities or projects.
+📫 Feel free to reach out to me through GitHub or drop me an email at kylejadusch@gmail.com to discuss exciting opportunities or projects. Thank you for taking some time and checking out my Github!
 
 Skills: 
 
