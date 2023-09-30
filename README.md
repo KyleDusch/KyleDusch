@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm deepening my skills in Django, React and Node.js , aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages.
 
-In each repository, there will have a badge to show what frameworks, IDE's and programming languages were used.
+In each repository, there will have a badge to show what frameworks, IDE's and programming languages that were used.
 
 💞️ I’m always eager to collaborate on projects ranging from game development and to  task automation. Let's work together to create innovative solutions!
 
