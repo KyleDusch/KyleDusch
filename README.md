@@ -2,7 +2,7 @@
 
 👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, while exploring the world of high-performance computing with C++.                       
 
-🌱 Currently, I'm deepening my skills in Django, Flask, React and Node.js , aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages.
+🌱 Currently, I'm deepening my skills in Django, JavaScript, and React; aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages.
 
 In each repository, there will have a badge to show what frameworks, IDE's and programming languages that were used.
 
@@ -15,8 +15,6 @@ Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
