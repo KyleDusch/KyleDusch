@@ -1,4 +1,4 @@
-👋 Hi, I’m @KyleDusch, a passionate developer with a focus on Python and C++ and Utilzing Prompt Engineering with AI and ChatGPT. 
+👋 Hi, I’m @KyleDusch, a passionate developer with a focus on Python and C++. I Also enjoy utilzing Prompt Engineering with AI and ChatGPT. 
 
 👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, while exploring the world of high-performance computing with C++.                       
 
