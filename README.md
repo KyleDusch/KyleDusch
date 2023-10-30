@@ -1,8 +1,8 @@
 👋 Hi, I’m @KyleDusch, a passionate developer with a focus on Python and C++. I Also enjoy utilzing Prompt Engineering with AI and ChatGPT. 
 
-👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, while exploring the world of high-performance computing with C++.                       
+👀 I’m interested in leveraging Python for data analysis, real world task automation to improve efficiency and positively effect day to day lives of people using these tools, while exploring the world of high-performance computing with C++. I am also leveraging the abilities of AI and Prompt Engineering to take implement an idea on the level of code they understand and functionality and have AI translate that into a machine learning process and function, performed in my repository of Prompt.                       
 
-🌱 Currently, I'm deepening my skills in Django, JavaScript, and React; aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages.
+🌱 Currently, I'm deepening my skills in Django, JavaScript, and React; aiming to build dynamic web applications that utilize high performance front end frameworks and high performance back end frameworkss and programming languages. 
 
 In each repository, there will have a badge to show what frameworks, IDE's and programming languages that were used. 
 
